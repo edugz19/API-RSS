@@ -1,0 +1,16 @@
+{
+  "name": "rss",
+  "version": "1.0.0",
+  "description": "The New York Times RSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edu García",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23"
+  }
+}
